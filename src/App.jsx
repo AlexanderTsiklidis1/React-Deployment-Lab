@@ -7,14 +7,16 @@ import "./App.css";
 function App() {
   return (
 
-  <body>
+  <div>
+
     
   
     <Header />
     <Primary />
     <Footer />
     
-  </body>
+  </div>
+ 
   
     
    
