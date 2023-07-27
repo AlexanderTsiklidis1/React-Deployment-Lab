@@ -7,7 +7,7 @@ import "./App.css";
 function App() {
   return (
 
-  <div>
+  <>
 
     
   
@@ -15,7 +15,9 @@ function App() {
     <Primary />
     <Footer />
     
-  </div>
+  </>
+    
+ 
  
   
     
