@@ -8,14 +8,9 @@ function App() {
   return (
 
   <>
-
-    
-  
     <Header />
     <Primary />
     <Footer />
-
-    
   </>
     
  
